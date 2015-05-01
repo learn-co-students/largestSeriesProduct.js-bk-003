@@ -1,0 +1,6 @@
+# A list of javascript files required for the project, in dependency order
+javascripts:
+  files:
+    - lib/series.js
+  specs:
+    - spec/series.spec.js
