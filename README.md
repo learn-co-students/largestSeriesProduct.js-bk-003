@@ -1,7 +1,4 @@
----
-languages: javascript
-tags: oo, math, errors
----
+
 
 # Largest Series Product
 
